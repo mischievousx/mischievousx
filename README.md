@@ -3,8 +3,12 @@
 
 I'm a little rookie just starting out. I look forward to hearing more from you all!
 
+---
+
 # 👀 I’m interested in ...
 Looking forward to meeting more interesting souls, and I'm happy to share some of my own learnings!
+
+---
 
 # 🌱 I’m currently learning ...
 
@@ -18,12 +22,16 @@ Looking forward to meeting more interesting souls, and I'm happy to share some o
 
 ![](https://icons.anoyi.com/?iconBgColor=f8fafc&icons=blender,github,git,docker,kubernetes)
 
-## 😜 Commit Stats
+---
+
+# 😜 Commit Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=mischievousx&count_private=true&show_icons=true&theme=radical&show_owner=true)
 
 ![](https://github-profile-trophy.vercel.app/?username=mischievousx&theme=radical&row=1)
 
-## 🦁 Top Languages
+---
+
+# 🦁 Top Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mischievousx&layout=compact&theme=dark)
