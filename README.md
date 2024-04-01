@@ -6,6 +6,8 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+![](https://icons.anoyi.com/?iconBgColor=f8fafc&icons=git,javascript,postman,prometheus,typescript,figma,vscode,bash,python,java,c,html5,css3,linux,docker,kubernetes,fastapi,flask,grafana,mysql,redis,nextjs,nginx,nodejs,react,spring,tailwindcss,terraform,consul)
+
 <!---
 mischievousx/mischievousx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
