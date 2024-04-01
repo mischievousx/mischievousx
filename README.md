@@ -20,6 +20,10 @@ Looking forward to meeting more interesting souls, and I'm happy to share some o
 
 ## 😜 Commit Stats
 
-![](https://github-readme-stats.vercel.app/api?username=AnoyiX&count_private=true&show_icons=true&theme=radical&show_owner=true)
+![](https://github-readme-stats.vercel.app/api?username=mischievousx&count_private=true&show_icons=true&theme=radical&show_owner=true)
 
-![](https://github-profile-trophy.vercel.app/?username=AnoyiX&theme=radical&row=1)
+![](https://github-profile-trophy.vercel.app/?username=mischievousx&theme=radical&row=1)
+
+## 🦁 Top Languages
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mischievousx&layout=compact&theme=dark)
