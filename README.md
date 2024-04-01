@@ -10,7 +10,7 @@ Undergraduate Schools：Huazhong University of Science and Technology
 # 👀 I’m interested in ...
 Looking forward to meeting more interesting souls, and I'm happy to share some of my own learnings!
 
-I'm curious about the FPAG , Embedded System and Computer Vision.
+I'm interested in the FPAG , Embedded System and Computer Vision.
 
 ---
 
