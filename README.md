@@ -30,12 +30,12 @@ I'm interested in the FPAG , Embedded System and Computer Vision.
 
 # 😜 Commit Stats
 
-![](https://github-readme-stats.vercel.app/api?username=mischievousx&count_private=true&show_icons=true&theme=radical&show_owner=true)
+![](https://github-readme-stats.vercel.app/api?username=mischievousx&count_private=true&show_icons=true&theme=light&show_owner=true)
 
-![](https://github-profile-trophy.vercel.app/?username=mischievousx&theme=radical&row=1)
+![](https://github-profile-trophy.vercel.app/?username=mischievousx&theme=light&row=1)
 
 ---
 
 # 🦁 Top Languages
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mischievousx&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mischievousx&layout=compact&theme=light)
