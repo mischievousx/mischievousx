@@ -14,20 +14,6 @@ I'm interested in the FPAG , Embedded System and Computer Vision.
 
 ---
 
-# 🌱 I’m currently learning ...
-
-## 🤟 Language(Mainly use)
-![](https://icons.anoyi.com/?iconBgColor=f8fafc&icons=python,c,cpp,matlab,php,mysql)
-
-## 🔨 Tool(Mainly use)
-![](https://icons.anoyi.com/?iconBgColor=f8fafc&icons=vscode,markdown,gmail,opencv,linux,powershell)
-
-## ⚙️ Other
-
-![](https://icons.anoyi.com/?iconBgColor=f8fafc&icons=blender,github,git,docker,kubernetes)
-
----
-
 # 🦁 Top Languages
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mischievousx&layout=compact&theme=light)
