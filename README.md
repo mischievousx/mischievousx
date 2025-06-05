@@ -3,9 +3,9 @@
 
 I'm a little rookie just starting out. I look forward to hearing more from you all!
 
-Undergraduate Schools：Huazhong University of Science and Technology
+Undergraduate School: Huazhong University of Science and Technology
 
-What's more，I'm working as an intern in the Chinese Academy of Sciences, and I pursue my master's degree in Chinese Academy of Sciences.
+Postgraduate School: Institute of Automation Chinese Academy of Sciences
 
 ---
 
