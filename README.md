@@ -13,9 +13,3 @@ Postgraduate School: Institute of Automation Chinese Academy of Sciences
 Looking forward to meeting more interesting souls, and I'm happy to share some of my own learnings!
 
 I'm interested in the Embedded System and Digital Signal Processing.
-
----
-
-# 🦁 Top Languages
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mischievousx&layout=compact&theme=light)
