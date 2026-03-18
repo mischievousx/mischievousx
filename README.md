@@ -12,4 +12,4 @@ Postgraduate School: Institute of Automation Chinese Academy of Sciences
 # 👀 I’m interested in ...
 Looking forward to meeting more interesting souls, and I'm happy to share some of my own learnings!
 
-I'm interested in the Embedded System and Digital Signal Processing.
+I'm interested in the Medical Robotic Navigation and 3D Reconstruction.
